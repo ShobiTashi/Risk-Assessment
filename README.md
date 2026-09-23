@@ -28,20 +28,20 @@ This directory aligns with the following standards:
 
 ## ISO/IEC 27001:2022
 - Clause 4–10: Risk-based ISMS
--Annex A: Controls supporting risk treatment
-A.5.8: Information security risk management
-A.5.9: Risk treatment processes
+- Annex A: Controls supporting risk treatment
+- A.5.8: Information security risk management
+- A.5.9: Risk treatment processes
 
 ## NIST RMF
-Prepare → context setting
-Categorise → risk identification
-Select / Implement → controls
-Assess / Authorise → validation
-Monitor → KRIs & continuous assessment
+- Prepare → context setting
+- Categorise → risk identification
+- Select / Implement → controls
+- Assess / Authorise → validation
+- Monitor → KRIs & continuous assessment
 
 ## CRISC Domains
-Governance
-IT Risk Assessment
-Risk Response & Reporting
-Information Technology & Security
+- Governance
+- IT Risk Assessment
+- Risk Response & Reporting
+- Information Technology & Security
 
