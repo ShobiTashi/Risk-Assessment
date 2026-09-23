@@ -21,6 +21,7 @@ Defines inherent vs residual risk, including control effectiveness.
 ---
 ## 3. Risk Register Template
 A structured table for tracking and managing risks across the organisation.
+
 Includes fields for inherent and residual scoring, controls, ownership, and treatment plans.
 
 ---
