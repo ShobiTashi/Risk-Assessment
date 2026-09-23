@@ -8,13 +8,15 @@ The purpose of this folder is to provide a complete, auditable, and reusable ris
 ---
 # Contents of This Folder
 ## 1. Risk Appetite Statement Template
-Defines qualitative and quantitative boundaries for acceptable risk.
----Includes examples of EWIs (Early Warning Indicators) and hard limits.
+Defines qualitative and quantitative boundaries for acceptable risk.  
+
+Includes examples of EWIs (Early Warning Indicators) and hard limits.
 
 ---
 ## 2.Risk Assessment
 Likelihood × Impact scoring matrix used for risk evaluation.
-⋅⋅⋅⋅Defines inherent vs residual risk, including control effectiveness.
+
+Defines inherent vs residual risk, including control effectiveness.
 
 ---
 ## 3. Risk Register Template
