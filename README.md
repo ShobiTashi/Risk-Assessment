@@ -27,8 +27,8 @@ Includes fields for inherent and residual scoring, controls, ownership, and trea
 This directory aligns with the following standards:
 
 ## ISO/IEC 27001:2022
-Clause 4–10: Risk-based ISMS
-Annex A: Controls supporting risk treatment
+- Clause 4–10: Risk-based ISMS
+-Annex A: Controls supporting risk treatment
 A.5.8: Information security risk management
 A.5.9: Risk treatment processes
 
@@ -45,4 +45,3 @@ IT Risk Assessment
 Risk Response & Reporting
 Information Technology & Security
 
-T
