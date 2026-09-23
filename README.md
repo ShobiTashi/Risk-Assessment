@@ -1,13 +1,14 @@
-# Exploratory Data Analysis on Company-layoffs
+# Risk Assessment Framework for Havana Cloud Services
 
 ----
 
 # Overview
-This is an SQL project that analyzes companies around the world that laid off staff, and raised funds from seed level to Series level.
+This directory contains the organisation’s full risk management framework, aligned with ISO 27005, NIST Risk Management Framework (RMF), and CRISC risk governance principles.
+The purpose of this folder is to provide a complete, auditable, and reusable risk assessment model that demonstrates practical GRC capability for engineering-driven organisations
 
 ---
 
-# Tools
+# Contents of This Folder
 MySQL
 
 ---
