@@ -50,5 +50,5 @@ Havana records are maintained by the people who own the underlying work, and mos
 independently reviewed before use. A risk owner types their own risk level, an activity owner tags their 
 own activity, a relationship owner sets their own vendor tier. 
 
-A value recorded in a Havana file is a claim made by a colleague, not an established fact. Part of the work is checking those claims against the rule that should 
-govern them, and reporting where the two disagree.
+A value recorded in a Havana file is a claim made by a colleague, not an established fact. Part of the work
+is checking those claims against the rule that should govern them, and reporting where the two disagree.
