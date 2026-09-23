@@ -9,7 +9,11 @@ The purpose of this folder is to provide a complete, auditable, and reusable ris
 ---
 
 # Contents of This Folder
-MySQL
+## 1. Risk Register Template
+A structured table for tracking and managing risks across the organisation.
+Includes fields for inherent and residual scoring, controls, ownership, and treatment plans.
+
+
 
 ---
 
