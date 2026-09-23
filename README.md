@@ -1,5 +1,4 @@
 # Risk Assessment Framework for Havana Cloud Services
-
 ----
 
 # Overview
