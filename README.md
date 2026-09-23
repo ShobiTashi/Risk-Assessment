@@ -1,5 +1,4 @@
 # Risk Assessment Framework for Havana Cloud Services
-----
 
 # Overview
 This directory contains the organisation’s full risk management framework, aligned with ISO 27005, NIST Risk Management Framework (RMF), and CRISC risk governance principles.
