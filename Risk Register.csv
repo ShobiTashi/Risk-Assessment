@@ -1,0 +1,17 @@
+Risk Description,Asset,Likelihood ,Impact,Risk Score ,Risk Level,Treatment,Owner,Status,Date Raised
+The company has no documented incident response plan for a ransomware event.,Security program,4,5,20,Critical,Mitigate,A. Renji,Closed,2/4/2026
+Cyber liability cover is below the modelled worst case loss for a multi-customer breach.,Company finances,3,5,15,High,Transfer,R. Silva,Open,2/4/2026
+Regional outage exceeding the recovery time objective,Customer platform,3,5,15,High,Mitigate,G. Soshima,Closed,2/6/2026
+Laptop theft holding cached customer records,Customer data,3,4,12,High,Mitigate,IT Operations,Open,3/7/2026
+Payment integration compromise exposing card data,Company finances,3,5,15,High,Mitigate,R. Silva,Open,3/9/2026
+Insider export of the full customer contact list,Customer platform,3,5,15,High,Mitigate,G. Soshima,Open,3/13/2026
+Denial of service against the customer portal,Customer platform,4,4,16,Critical,Mitigate,G. Soshima,Open,4/17/2026
+Subprocessor breach exposing health records,Records platform,3,5,15,High,Transfer,T. Martin,Closed,4/21/2026
+Backup corruption preventing restore after an incident,Backup platform,3,5,15,High,Mitigate,G. Soshima,Open,5/29/2026
+Phishing leading to a business email compromise payment,Company finances,4,5,20,Critical,Mitigate,R. Silva,Open,5/30/2026
+Source code leak from a misconfigured repository,Codebase Platform,3,4,12,High,Mitigate,G. Soshima,Open,5/31/2026
+Loss of a production encryption key,Encryption Platform,2,5,10,High,Mitigate,G. Soshima,Closed,5/31/2026
+"An internal audit review is delayed, reducing the timeliness of assurance ",Audit assurance ,2,2,4,Low,Accept,D. Brando,Open,6/16/2026
+Duplicate internal audit test is performed for a process already covered by a recent review,Audit assurance ,2,2,4,Low,Avoid,C. Dennis,Closed,6/17/2026
+Proposed product feature creates a minor data exposure,Customer data,2,3,6,Medium,Avoid,H. Jordan,Open,6/18/2026
+Customer requests security commitment not in the standard sales documentation,Customer data,2,3,6,Medium,Accept,M. Jones,Open,6/19/2026
