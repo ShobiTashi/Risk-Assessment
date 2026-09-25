@@ -1,0 +1,13 @@
+Risk,Likelihood ,Impact
+Ransomware outbreak on internal file servers,4,5
+Customer database breach through stolen credentials,3,5
+Regional outage exceeding the recovery objective,3,5
+Laptop theft holding cached records,3,4
+Payment integration compromise,3,5
+Insider export of customer contacts,3,5
+Denial of service against the portal,4,4
+Subprocessor breach exposing health records,3,5
+Backup corruption preventing restore,3,5
+Phishing leading to a fraudulent payment,4,5
+Source code leak from a repository,3,4
+Loss of a production encryption key,2,5
