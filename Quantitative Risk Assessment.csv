@@ -1,3 +1,8 @@
+SLE: Single Loss Expectancy equals Asset Value multiplied by Exposure Factor.
+ALE:	Annualized Loss Expectancy equals SLE multiplied by the Annual Rate of Occurrence.
+	
+Recorded SLE and ALE are entered by the assessor and are not independently recalculated.	
+
 Scenario,Asset Value (USD),Exposure Factor,Recorded SLE (USD) ,Annual Rate of Occurrence,Recorded ALE (USD)
 Ransomware outbreak on internal file servers,"400,000",0.5,"200,000",0.4,"80,000"
 Customer database breach through stolen admin credentials,"1,200,000",0.6,"720,000",0.2,"144,000"
