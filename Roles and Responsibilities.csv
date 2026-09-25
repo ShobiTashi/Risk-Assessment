@@ -1,0 +1,18 @@
+Name,Role,Area of Responsibility
+E. Newgate,Chief Information Security Officer,"Security direction, policy approval, board reporting, risk appetite"
+D. Akande,GRC Analyst,"Risk register, vendor assessment, control mapping, asset 
+inventory "
+A. Renji,Security Operations Lead,"Monitoring, logging, incident response, audit evidence"
+G. Soshima,Head of Platform Engineering,"Production platform, encryption, backups, change management"
+W. Espada,Human Resources,"Joiner and leaver process, acknowledgment, awareness 
+training "
+T. Martin,Legal Counsel,"Regulatory obligations, data processing agreements, 
+subprocessors "
+M. Jones,Sales,"Customer security questionnaires, contractual commitments"
+R. Silva,Finance,"Insurance, payment card obligations, financial exposure "
+H. Jordan,Product,"Decisions to proceed with or withdraw from product 
+features "
+D. Brando,Internal Audit,Independent audit of Helios systems and processes
+C. Dennis,Internal Audit,Independent audit of Helios systems and processes
+IT Operations,Team,"Corporate network, endpoints, office systems, remote 
+access "
