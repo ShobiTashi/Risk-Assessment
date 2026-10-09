@@ -1,0 +1,14 @@
+Activity Description,Recorded RMF Step,Owner
+Classify the customer billing system as high impact based on harm to customers,Categorize,D. Akande
+A senior official signs a decision allowing the billing system to go live,Authorize,E. Newgate
+Choose a baseline control set based on impact level and tailor it to system risks,Select,D. Akande
+"Track the system, its control state, and new threats on an ongoing basis",Monitor,A. Renji
+"Define risk appetite, assign risk roles, and identify common controls before system work",Prepare,E. Newgate
+An independent assessor tests whether deployed controls are working as intended,Assess,D. Brando
+Deploy the selected controls into the billing system environment,Implement,G. Soshima
+"Record the system description, boundary, and data types in the system inventory",Categorize,D. Akande
+Document the control implementation details in the system security plan,Implement,G. Soshima
+Produce the assessment report listing control weaknesses found during testing,Assess,D. Brando
+Establish the organization wide risk management strategy,Prepare,E. Newgate
+Review residual risk and accept it before granting an authorization to operate,Authorize,E. Newgate
+Re-run the categorization after a new data type is added to the system,Categorize,D. Akande
